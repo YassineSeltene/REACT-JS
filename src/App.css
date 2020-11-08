@@ -1,0 +1,10 @@
+.formulaire {
+  display: flex; justify-content: start; 
+  background-color: rgb(223, 194, 216)
+}
+.genre {
+font-style: italic; font-weight: bold; color: blue 
+}
+.entree {
+  width: 100px; color: blueviolet
+}
