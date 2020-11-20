@@ -1,10 +1,6 @@
-.formulaire {
-  display: flex; justify-content: start; 
-  background-color: rgb(223, 194, 216)
+.mondiv {
+text-align: center;
 }
-.genre {
-font-style: italic; font-weight: bold; color: blue 
-}
-.entree {
-  width: 100px; color: blueviolet
+.contenu {
+  margin: 2px auto
 }
